@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryannolly
 - 👀 I’m interested in Web Development, Machine Learning, and Competitive Programming
-- 🌱 I'm a fresh graduate from Negeri Medan University with Bachelor Degree in Computer Science
+- 🌱 I have bachelor degree in Computer Science from Universitas Negeri Medan
 - 📫 How to reach me : rananda61@gmail.com
 
 <!---
